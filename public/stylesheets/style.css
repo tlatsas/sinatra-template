@@ -1,0 +1,13 @@
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.container {
+    text-align: justify;
+}
+
+.container .row {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

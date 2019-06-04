@@ -1,0 +1,15 @@
+.bundle
+log/*.log
+log/*.log-*.gz
+*.swp
+.DS_Store
+.idea/
+*.iml
+.generators
+.rakeTasks
+.yardoc/*
+doc/*
+*.sock
+*.pid
+coverage/*
+vendor/bundle/
